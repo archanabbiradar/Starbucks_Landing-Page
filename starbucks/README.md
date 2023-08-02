@@ -9,9 +9,6 @@
 <li>User authentication system that allows users to create accounts, log in, and manage their profile information. (directed to original website)</li>
 </ul>
 
-<h2>Demo</h2>
-<p>Here is a live demo of the Starbucks clone project:</p>https://ganesh-starbucks-clone.netlify.app/
-
 <h2>Installation</h2>
 <p>To run this project on your local machine, you can follow these steps:
 
